@@ -4,4 +4,10 @@
     <string name="email">email</string>
     <string name="password">password</string>
     <string name="register">register</string>
+    <string name="Register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="userdetails">userDetails</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">Logout</string>
 </resources>
