@@ -27,7 +27,6 @@ class Login : AppCompatActivity() {
         if (currentUser != null) {
             val intent = Intent(applicationContext, MainActivity::class.java)
             startActivity(intent)
-            finish()
         }
     }
     override fun onCreate(savedInstanceState: Bundle?) {
